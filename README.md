@@ -6,10 +6,10 @@ Ai and ML Enthusiast
 
 A third-year Computer Science Engineering student at Sandip Institute of Technology and Research Centre in Nashik, Maharashtra, India. I'm deeply passionate about Al and its latest advancements.  
 
-* 🌍  I'm based in INDIA *
-* 🖥️  See my portfolio at [my website](http://shreyuu.github.io/Portfolio/) *
-* 🧠  I'm learning Computer Science *
-* 🤝  I'm open to collaborating on python projects *
+* 🌍  I'm based in INDIA
+* 🖥️  See my portfolio at [my website](http://shreyuu.github.io/Portfolio/)
+* 🧠  I'm learning Computer Science
+* 🤝  I'm open to collaborating on python projects
 * ⚡  I like Batman
 
 ### Skills  

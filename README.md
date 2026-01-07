@@ -90,7 +90,7 @@ me.say_hi()
 <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" height="40" alt="figma"/></a> </p> </div>
 
 </div>
-
+<!-- 
 ## 🤝 Connect with Me
 
 <p align="center">
@@ -111,4 +111,4 @@ me.say_hi()
 <a href="http://www.github.com/shreyuu">
   <img src="https://github-readme-stats.vercel.app/api?username=shreyuu&show_icons=true&hide=stars,&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="shreyuu's GitHub stats" />
 </a>
-</p>
+</p> -->

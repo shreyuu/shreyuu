@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="t d">
+<title id="t">Shreyash Meshram — full-stack &amp; AI engineer</title>
+<desc id="d">A chart-recorder trace of a career: diploma 2019, BE 2022, internships 2024, MSc 2025, now.</desc>
+<style>
+text{font-family:'Martian Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+.lbl{font-size:13px;fill:#5c6d82}
+.trace{stroke-dasharray:1;stroke-dashoffset:0;animation:draw 1.8s linear 0.2s both}
+.mk,.dot{animation:in 200ms cubic-bezier(0.23, 1, 0.32, 1) var(--d,0s) both}
+.dot{--d:2.00s}
+.pulse{opacity:0;transform-box:fill-box;transform-origin:center;animation:pulse 2.4s cubic-bezier(0.23, 1, 0.32, 1) 2.00s infinite}
+@keyframes draw{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}
+@keyframes in{from{opacity:0}to{opacity:1}}
+@keyframes pulse{from{transform:scale(1);opacity:.6}to{transform:scale(3);opacity:0}}
+@media (prefers-reduced-motion:reduce){
+.trace{animation:in .4s ease both}
+.mk,.dot{animation-delay:0s}
+.pulse{display:none}
+}
+</style>
+<defs>
+<pattern id="minor" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="rgba(11,17,26,0.05)"/></pattern>
+<pattern id="major" width="160" height="160" patternUnits="userSpaceOnUse"><path d="M160 0H0V160" fill="none" stroke="rgba(11,17,26,0.08)"/></pattern>
+<linearGradient id="sig" gradientUnits="userSpaceOnUse" x1="48" y1="0" x2="1120" y2="0"><stop offset="0" stop-color="#2e3163"/><stop offset="0.25" stop-color="#7a2c63"/><stop offset="0.5" stop-color="#c42e63"/><stop offset="0.75" stop-color="#b34410"/><stop offset="1" stop-color="#8a6208"/></linearGradient>
+</defs>
+<rect width="1200" height="320" fill="#e9eef4"/>
+<rect width="1200" height="320" fill="url(#minor)"/>
+<rect width="1200" height="320" fill="url(#major)"/>
+<rect x="0.5" y="0.5" width="1199" height="319" fill="none" stroke="rgba(11,17,26,0.14)"/>
+<text x="48" y="56" font-size="15" fill="#5c6d82" letter-spacing="0.6">// readout · github.com/shreyuu</text>
+<text x="1152" y="56" font-size="15" fill="#5c6d82" letter-spacing="0.6" text-anchor="end">52.95°N 1.16°W · nottingham</text>
+<text x="46" y="134" font-size="64" font-weight="700" fill="#0b111a" letter-spacing="-0.5">SHREYASH MESHRAM</text>
+<text x="48" y="174" font-size="20" fill="#3d4c5f">full-stack &amp; AI engineer — turning messy input into a measurement</text>
+<line x1="48" y1="250" x2="1152" y2="250" stroke="rgba(11,17,26,0.14)"/>
+<g class="mk" style="--d:0.33s"><line x1="116" y1="206" x2="116" y2="290" stroke="#5c6d82" stroke-dasharray="2 4"/><text x="116" y="308" text-anchor="middle" class="lbl">'19 diploma</text></g><g class="mk" style="--d:0.94s"><line x1="540" y1="206" x2="540" y2="290" stroke="#5c6d82" stroke-dasharray="2 4"/><text x="540" y="308" text-anchor="middle" class="lbl">'22 BE</text></g><g class="mk" style="--d:1.26s"><line x1="758" y1="206" x2="758" y2="290" stroke="#5c6d82" stroke-dasharray="2 4"/><text x="758" y="308" text-anchor="middle" class="lbl">'24 internships</text></g><g class="mk" style="--d:1.67s"><line x1="963" y1="206" x2="963" y2="290" stroke="#5c6d82" stroke-dasharray="2 4"/><text x="963" y="308" text-anchor="middle" class="lbl">'25 MSc</text></g>
+<path class="trace" d="M48,251.2 L52,252.3 L56,250.3 L60,251.6 L64,248.7 L68,249.0 L72,251.5 L76,250.5 L80,256.5 L84,253.9 L88,256.9 L92,253.8 L96,245.8 L100,238.3 L104,256.9 L108,261.2 L112,254.9 L116,244.8 L120,247.6 L124,246.4 L128,232.9 L132,255.4 L136,245.5 L140,257.5 L144,258.3 L148,255.1 L152,250.3 L156,245.4 L160,250.3 L164,249.4 L168,250.4 L172,251.8 L176,250.6 L180,251.4 L184,250.6 L188,249.9 L192,248.9 L196,250.5 L200,251.5 L204,250.7 L208,250.4 L212,250.1 L216,248.1 L220,248.6 L224,250.7 L228,250.5 L232,250.9 L236,249.5 L240,249.2 L244,249.8 L248,247.5 L252,250.7 L256,250.6 L260,250.2 L264,252.0 L268,250.3 L272,250.9 L276,248.5 L280,248.4 L284,249.7 L288,249.6 L292,251.6 L296,250.0 L300,249.5 L304,248.9 L308,249.1 L312,248.5 L316,249.0 L320,251.0 L324,250.4 L328,251.6 L332,248.8 L336,248.5 L340,247.7 L344,249.0 L348,251.4 L352,251.4 L356,250.1 L360,251.3 L364,249.2 L368,250.0 L372,250.8 L376,251.8 L380,250.2 L384,252.0 L388,251.0 L392,249.7 L396,247.8 L400,250.5 L404,250.2 L408,250.6 L412,249.8 L416,249.6 L420,248.6 L424,249.8 L428,249.3 L432,250.0 L436,249.3 L440,249.6 L444,251.9 L448,251.2 L452,250.2 L456,249.8 L460,249.3 L464,249.8 L468,251.6 L472,252.7 L476,250.9 L480,250.2 L484,248.5 L488,246.4 L492,248.3 L496,250.9 L500,251.7 L504,251.0 L508,256.1 L512,240.7 L516,239.0 L520,237.4 L524,243.6 L528,259.8 L532,262.1 L536,266.7 L540,243.0 L544,254.0 L548,253.6 L552,254.9 L556,261.9 L560,260.1 L564,262.8 L568,258.0 L572,251.5 L576,250.7 L580,249.3 L584,253.4 L588,249.4 L592,251.0 L596,252.1 L600,250.5 L604,249.5 L608,249.5 L612,250.9 L616,249.5 L620,249.5 L624,250.9 L628,250.1 L632,250.6 L636,250.2 L640,249.8 L644,250.9 L648,249.8 L652,252.0 L656,251.9 L660,248.2 L664,249.0 L668,250.2 L672,249.6 L676,252.0 L680,250.9 L684,249.3 L688,248.8 L692,248.5 L696,249.7 L700,249.7 L704,251.8 L708,250.1 L712,251.9 L716,248.8 L720,250.4 L724,249.5 L728,240.4 L732,239.2 L736,246.4 L740,250.7 L744,247.9 L748,242.2 L752,250.9 L756,237.6 L760,248.2 L764,268.8 L768,274.8 L772,265.9 L776,259.8 L780,242.4 L784,235.0 L788,246.3 L792,243.5 L796,247.0 L800,249.0 L804,252.5 L808,251.5 L812,250.1 L816,249.9 L820,250.4 L824,249.9 L828,249.7 L832,249.9 L836,250.4 L840,249.1 L844,248.1 L848,250.4 L852,249.4 L856,249.4 L860,250.2 L864,249.9 L868,250.0 L872,250.2 L876,248.1 L880,250.0 L884,249.4 L888,249.5 L892,251.4 L896,250.7 L900,247.7 L904,247.7 L908,250.3 L912,251.9 L916,254.0 L920,249.4 L924,249.1 L928,254.5 L932,239.7 L936,232.9 L940,241.8 L944,257.5 L948,258.6 L952,274.8 L956,272.5 L960,225.4 L964,231.7 L968,238.8 L972,232.3 L976,260.4 L980,248.8 L984,247.0 L988,255.7 L992,249.5 L996,248.2 L1000,251.3 L1004,250.3 L1008,254.3 L1012,252.4 L1016,252.4 L1020,247.3 L1024,249.2 L1028,249.2 L1032,249.6 L1036,249.3 L1040,251.7 L1044,249.1 L1048,249.7 L1052,248.2 L1056,247.7 L1060,252.6 L1064,251.7 L1068,256.8 L1072,260.0 L1076,246.7 L1080,252.4 L1084,243.9 L1088,239.2 L1092,248.4 L1096,261.8 L1100,259.6 L1104,254.7 L1108,237.7 L1112,253.9 L1116,235.9 L1120,240.0" pathLength="1" fill="none" stroke="url(#sig)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle class="pulse" cx="1120" cy="240" r="5" fill="none" stroke="#c42e63" stroke-width="1.5"/>
+<circle class="dot" cx="1120" cy="240" r="5" fill="#c42e63"/>
+<text x="1152" y="308" text-anchor="end" class="lbl dot">now</text>
+</svg>
